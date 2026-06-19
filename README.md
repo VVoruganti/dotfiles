@@ -1,6 +1,6 @@
 # Dotfiles
 
-This repository contains all of the seutp scripts that I can use to configure a new computer or workspace. The programs that
+This repository contains all of the setup scripts that I can use to configure a new computer or workspace. The programs that
 are being setup include the following.
 
 - Neovim 0.7.0 (Including Lua API)
